@@ -1,3 +1,3 @@
-# Anomaly-Detection-Induced-Draft-Fan
+- Anomaly-Detection-Induced-Draft-Fan
 
-- Trial version
+Trial version
